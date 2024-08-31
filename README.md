@@ -54,6 +54,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity-007ACC?style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/GRC%20Certify-GRCP-FF5733?style=for-the-badge&logo=GRCP&logoColor=white" />
+<img src="https://img.shields.io/badge/GRC%20Certify-GRCA-FF5733?style=for-the-badge&logo=GRCA&logoColor=white" />
+<img src="https://img.shields.io/badge/Cyber%20Security%20GRC-Mastery%20Certified-4CAF50?style=for-the-badge&logo=GRC&logoColor=white" />
+<img src="https://img.shields.io/badge/Google-IT_Support_Certified-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google-Cybersecurity_Professional_Certified-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+
+
+
+
+
 
 </div>
 
