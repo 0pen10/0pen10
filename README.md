@@ -3,7 +3,13 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Welcome to my GitHub profile! I'm Oryon Begay, a Finance Specialist with a deep passion for cybersecurity. My career journey has equipped me with a unique blend of skills in managing critical data, information assurance, and troubleshooting vital systems across both corporate and defense environments.
+
+I hold a Master of Science in Cybersecurity and Business Analytics and have earned several industry-recognized certifications, including CompTIA Security+ and ISC2 Certified in Cybersecurity (CC). My interests lie in exploring advanced cybersecurity frameworks, performing vulnerability assessments, and enhancing system security through programming and network administration.
+
+On this platform, I aim to share projects, scripts, and tools that reflect my ongoing journey in cybersecurity. I enjoy working with Python and PowerShell to automate tasks, analyze data, and secure information systems. Whether it's developing security protocols or diving into the latest threat analysis techniques, I'm constantly exploring new ways to protect and optimize systems.
+
+Feel free to explore my repositories and connect if you share similar interests in cybersecurity, risk management, or system administration. Let's collaborate and learn together!.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
