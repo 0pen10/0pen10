@@ -27,18 +27,9 @@ My journey as a Biomedical Equipment Technician in the US ARMY Reserves has led 
 
 ## Tools
 <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" /> <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/-Autopsy-555555?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-HxD-FF0000?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-FTK_Imager-0078D4?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Change_Management-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Imaging-FF6F00?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-OSI_Model-000000?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Active_Directory-0089D6?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-NIST_Cybersecurity_Framework-4CAF50?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-NIST_800--37(RMF)-00A4EF?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    
-</div>
-
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    
 
 ## Certifications
 
