@@ -10,9 +10,8 @@ On this platform, I aim to share projects, scripts, and tools that reflect my on
 Feel free to explore and connect if you share similar interests in cybersecurity, risk management, or system administration. Let's collaborate and learn together!.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey as a Biomedical Equipment Technician in the US ARMY Reserves has led me to develop a passion for cybersecurity. I am looking at making a career change from Finance to Cybersecurity.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -27,7 +26,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" /> <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/-Autopsy-555555?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-HxD-FF0000?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-FTK_Imager-0078D4?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Change_Management-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Imaging-FF6F00?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-OSI_Model-000000?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Active_Directory-0089D6?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-NIST_Cybersecurity_Framework-4CAF50?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-NIST_800--37(RMF)-00A4EF?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
 
 ### Network
 <div>
@@ -42,7 +41,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity-007ACC?style=for-the-badge&logo=ISC2&logoColor=white" />
